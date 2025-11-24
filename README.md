@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Marketplace**
  
- 🌱 I’m currently learning **Angular,Parse Server,Node.js,MongoDB**
+ 🌱 I’m currently learning **Java, Angular,Parse Server,Node.js,MongoDB**
 
 💬 Ask me about **Node.js, React, Spring... or anything [here](https://github.com/BozatzidisLeonidas/BozatzidisLeonidas-/issues)**
 
